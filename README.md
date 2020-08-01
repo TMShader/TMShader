@@ -1,8 +1,6 @@
-
 # My projects
 
 * [Head to tellraw](https://head-generator.tmshader.me/) a simple Minecraft tool for mapmakers
-
 
 # Known Programming Languages
 * `Python`
