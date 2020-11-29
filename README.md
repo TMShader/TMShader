@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning flutter and kotlin android developement.
 - 👯 I’m looking to collaborate on open source nodejs projects.
 - 💬 Ask me about nodejs, unity and html.
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='18'>](mailto:tmshader@tmshader.com), [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/TheTMShader)
+- 📫 How to reach me: [📧](mailto:tmshader@tmshader.com), [<i class="fab fa-twitter" height='18'></i>](https://twitter.com/TheTMShader)
 - ⚡ Fun fact: I love chess.
 
 
