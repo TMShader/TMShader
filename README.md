@@ -13,5 +13,5 @@
 * Hungarian
 * English
 
-![TMShaders's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TMShaders&theme=buefy&show_icons=true&&line_height=40&count_private=true)
-![TMShaders's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMShaders&theme=buefy&show_icons=true)
+![TMShader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TMShader&theme=buefy&show_icons=true&&line_height=40&count_private=true)
+![TMShader's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMShader&theme=buefy&show_icons=true)
