@@ -1,12 +1,10 @@
-<script src="https://kit.fontawesome.com/7fead5a706.js" crossorigin="anonymous"></script>
-
 ### Hi there 👋, I'm Milo,
 
 - 🔭 I’m currently working on a getting new ideas to make a game & I'm open to junior/intern roles.
 - 🌱 I’m currently learning flutter and kotlin android developement.
 - 👯 I’m looking to collaborate on open source nodejs projects.
 - 💬 Ask me about nodejs, unity and html.
-- 📫 How to reach me: [📧](mailto:tmshader@tmshader.com), [<i class="fab fa-twitter" height='18'></i>](https://twitter.com/TheTMShader)
+- 📫 How to reach me: [<img src='https://raw.githubusercontent.com/TMShader/TMShader/master/envelope-solid.svg' alt='gmail' height='18'>](mailto:tmshader@tmshader.com), [<img src='https://raw.githubusercontent.com/TMShader/TMShader/master/twitter-brands.svg' alt='twitter' height='18'>](https://twitter.com/TheTMShader)
 - ⚡ Fun fact: I love chess.
 
 
