@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/7fead5a706.js" crossorigin="anonymous"></script>
+
 ### Hi there 👋, I'm Milo,
 
 - 🔭 I’m currently working on a getting new ideas to make a game & I'm open to junior/intern roles.
